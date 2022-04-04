@@ -1,0 +1,1 @@
+# Degi-kenler-ve-Veri-Tiplerleri-c-
