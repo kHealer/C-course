@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net6.0\degisken.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net6.0\degisken.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net6.0\degisken.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\bin\Debug\net6.0\degisken.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\refint\degisken.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\degisken\obj\Debug\net6.0\ref\degisken.dll
