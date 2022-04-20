@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\bin\Debug\net6.0\Tip dönüsümleri.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\bin\Debug\net6.0\Tip dönüsümleri.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\bin\Debug\net6.0\Tip dönüsümleri.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\bin\Debug\net6.0\Tip dönüsümleri.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\bin\Debug\net6.0\Tip dönüsümleri.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\refint\Tip dönüsümleri.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\Tip dönüsümleri.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Tip dönüsümleri\obj\Debug\net6.0\ref\Tip dönüsümleri.dll
