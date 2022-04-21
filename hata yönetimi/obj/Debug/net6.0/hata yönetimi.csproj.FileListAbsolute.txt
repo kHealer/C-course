@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\bin\Debug\net6.0\hata yönetimi.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\bin\Debug\net6.0\hata yönetimi.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\bin\Debug\net6.0\hata yönetimi.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\bin\Debug\net6.0\hata yönetimi.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\bin\Debug\net6.0\hata yönetimi.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\refint\hata yönetimi.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\hata yönetimi.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\hata yönetimi\obj\Debug\net6.0\ref\hata yönetimi.dll
