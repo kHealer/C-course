@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\bin\Debug\net6.0\switch-case karar yapıları.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\bin\Debug\net6.0\switch-case karar yapıları.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\bin\Debug\net6.0\switch-case karar yapıları.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\bin\Debug\net6.0\switch-case karar yapıları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\bin\Debug\net6.0\switch-case karar yapıları.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\refint\switch-case karar yapıları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\switch-case karar yapıları.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\switch-case karar yapıları\obj\Debug\net6.0\ref\switch-case karar yapıları.dll
