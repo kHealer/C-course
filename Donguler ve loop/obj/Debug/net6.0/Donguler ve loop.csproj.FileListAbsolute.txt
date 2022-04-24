@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\bin\Debug\net6.0\Donguler ve loop.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\bin\Debug\net6.0\Donguler ve loop.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\bin\Debug\net6.0\Donguler ve loop.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\bin\Debug\net6.0\Donguler ve loop.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\bin\Debug\net6.0\Donguler ve loop.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\refint\Donguler ve loop.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\Donguler ve loop.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\Donguler ve loop\obj\Debug\net6.0\ref\Donguler ve loop.dll
