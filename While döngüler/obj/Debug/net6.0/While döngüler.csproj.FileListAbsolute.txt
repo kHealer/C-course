@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\bin\Debug\net6.0\While döngüler.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\bin\Debug\net6.0\While döngüler.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\bin\Debug\net6.0\While döngüler.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\bin\Debug\net6.0\While döngüler.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\bin\Debug\net6.0\While döngüler.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\refint\While döngüler.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\While döngüler.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\While döngüler\obj\Debug\net6.0\ref\While döngüler.dll
