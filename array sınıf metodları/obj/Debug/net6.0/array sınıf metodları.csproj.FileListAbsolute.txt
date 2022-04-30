@@ -1,0 +1,15 @@
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\bin\Debug\net6.0\array sınıf metodları.exe
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\bin\Debug\net6.0\array sınıf metodları.deps.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\bin\Debug\net6.0\array sınıf metodları.runtimeconfig.json
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\bin\Debug\net6.0\array sınıf metodları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\bin\Debug\net6.0\array sınıf metodları.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.csproj.AssemblyReference.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.AssemblyInfoInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.AssemblyInfo.cs
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.csproj.CoreCompileInputs.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\refint\array sınıf metodları.dll
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.pdb
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\array sınıf metodları.genruntimeconfig.cache
+C:\Users\helva\OneDrive\Masaüstü\Pratikler\C-course\array sınıf metodları\obj\Debug\net6.0\ref\array sınıf metodları.dll
